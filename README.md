@@ -17,3 +17,5 @@ python short.py
 ```
 4) Put the URL of the website you want to shorthen.
 5) Voila! You got the shortened link!
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/link-shortener)](https://github.com/kevinadhiguna)
